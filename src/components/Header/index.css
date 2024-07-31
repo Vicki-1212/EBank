@@ -1,0 +1,24 @@
+.header-container {
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+
+.website-logo-image {
+  height: 60px;
+  width: 100px;
+}
+
+.logout-button {
+  height: 50px;
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  outline: none;
+  font-family: 'Roboto';
+  font-size: 18px;
+  width: 100px;
+}
